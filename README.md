@@ -25,6 +25,7 @@ This project is being developed with the following technologies:
 
 - <a href="https://vitejs.dev/" alt="vitejs" target="_blank">Vite (React com TS)</a>
 - <a href="https://tailwindcss.com/" alt="TailwindCSS" target="_blank">TailwindCSS</a>
+- <a href="https://graphql.org/" alt="GraphQL" target="_blank">GraphQL - A query language for API</a>
 - <a href="https://graphcms.com/" alt="GraphCMS" target="_blank">GraphCMS</a>
 
 ## 💻 Project
